@@ -1,1 +1,1 @@
-# mynewrepo
+Git Demo for new users
